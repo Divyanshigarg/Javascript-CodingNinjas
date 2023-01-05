@@ -1,6 +1,6 @@
 # Javascript-CodingNinjas
 
-## JavaScript Basics
+This repo contains all the javascript concepts with the defination of all the topics for getting interview ready.
 
 <br/>
 
